@@ -1,13 +1,30 @@
 [project]
 name = "c2-contract-risk"
 version = "0.1.0"
-description = "Yash Patel - Finance Project: c2-contract-risk"
+description = "C2 LLM Contract Clause Risk Engine - local Ollama-powered contract risk analyzer"
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "ollama>=0.3.0",
+    "pypdf>=4.0",
+    "pandas>=2.0",
+    "streamlit>=1.30",
+    "click>=8.1",
+    "pytest>=8.0",
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+]
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0"]
 
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+addopts = "-q"

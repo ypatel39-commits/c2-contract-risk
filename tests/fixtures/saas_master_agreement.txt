@@ -1,0 +1,27 @@
+MASTER SOFTWARE-AS-A-SERVICE AGREEMENT
+
+This Master Software-as-a-Service Agreement ("Agreement") is entered into as of January 1, 2025 ("Effective Date") by and between Acme Cloud Inc., a Delaware corporation ("Vendor"), and the customer identified on the applicable order form ("Customer").
+
+1. SERVICES.
+Vendor shall provide Customer with access to the cloud platform identified in the order form (the "Services") in accordance with the documentation and the service-level commitments attached as Exhibit A.
+
+2. TERM AND RENEWAL.
+The initial term of this Agreement shall commence on the Effective Date and continue for a period of three (3) years (the "Initial Term"). Thereafter, this Agreement shall automatically renew for successive one (1) year renewal terms (each, a "Renewal Term"), unless either party provides written notice of non-renewal not less than ninety (90) days prior to the end of the then-current term. Fees for any Renewal Term may be increased by Vendor in its sole discretion, provided such increase shall not exceed seven percent (7%) of the prior term's fees.
+
+3. INDEMNIFICATION.
+Customer shall defend, indemnify, and hold harmless Vendor and its officers, directors, employees, agents, affiliates, successors, and assigns from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to (a) Customer's use of the Services, (b) any breach of this Agreement by Customer, or (c) the negligence or willful misconduct of Customer, regardless of whether such claim is based in contract, tort, or any other legal theory, and irrespective of any negligence on the part of Vendor.
+
+4. LIMITATION OF LIABILITY.
+IN NO EVENT SHALL VENDOR'S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE AMOUNTS PAID BY CUSTOMER TO VENDOR UNDER THIS AGREEMENT IN THE THREE (3) MONTHS PRECEDING THE EVENT GIVING RISE TO LIABILITY. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. GOVERNING LAW; FORUM.
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict-of-laws principles. The parties irrevocably submit to the exclusive jurisdiction of the state and federal courts located in New Castle County, Delaware for the resolution of any dispute arising out of or relating to this Agreement.
+
+6. ASSIGNMENT; CHANGE OF CONTROL.
+Neither party may assign this Agreement, in whole or in part, without the prior written consent of the other party, which consent shall not be unreasonably withheld. Notwithstanding the foregoing, any merger, consolidation, sale of all or substantially all of a party's assets, or change of control involving more than fifty percent (50%) of the voting securities of a party shall be deemed an assignment of this Agreement requiring the other party's prior written consent.
+
+7. CONFIDENTIALITY.
+Each party agrees to protect the other's Confidential Information using the same degree of care it uses to protect its own confidential information of like importance, but in no event less than reasonable care.
+
+8. MISCELLANEOUS.
+This Agreement constitutes the entire agreement of the parties and supersedes all prior negotiations.
