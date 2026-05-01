@@ -1,0 +1,30 @@
+PROFESSIONAL CONSULTING SERVICES AGREEMENT
+
+This Professional Consulting Services Agreement ("Agreement") is made and entered into effective as of March 15, 2025, by and between Beacon Strategy Partners LLC ("Consultant") and the client identified on the applicable Statement of Work ("Client").
+
+1. ENGAGEMENT.
+Client hereby retains Consultant to perform the consulting services described in one or more mutually executed statements of work (each, an "SOW").
+
+2. TERM.
+This Agreement shall commence on the date first written above and shall continue in effect until terminated. Either party may terminate this Agreement, with or without cause, upon thirty (30) days prior written notice to the other party. There is no automatic renewal of this Agreement.
+
+3. FEES AND PAYMENT.
+Client shall pay Consultant the fees set forth in each SOW. All invoices are due within thirty (30) days of receipt.
+
+4. INDEPENDENT CONTRACTOR.
+The relationship of the parties is that of independent contractors. Nothing in this Agreement shall be construed to create a partnership, joint venture, employment, or agency relationship.
+
+5. MUTUAL INDEMNIFICATION.
+Each party shall indemnify and hold harmless the other party from any third-party claims to the extent caused by the indemnifying party's gross negligence or willful misconduct. Each party's indemnification obligation under this Section shall be capped at the fees paid under the applicable SOW.
+
+6. LIMITATION OF LIABILITY.
+Except for breaches of confidentiality or indemnification obligations, neither party's total cumulative liability under this Agreement shall exceed the amount of fees paid or payable under the applicable SOW during the twelve (12) months preceding the claim. Neither party shall be liable for any consequential, indirect, or punitive damages.
+
+7. GOVERNING LAW; ARBITRATION.
+This Agreement shall be governed by the laws of the Commonwealth of Massachusetts, without regard to its conflict-of-laws rules. Any dispute arising out of or relating to this Agreement shall be finally resolved by binding arbitration administered by the American Arbitration Association under its Commercial Arbitration Rules, with the seat of arbitration in Boston, Massachusetts.
+
+8. CONFIDENTIALITY.
+Each party shall maintain the confidentiality of the other party's Confidential Information for a period of five (5) years following disclosure.
+
+9. NO ASSIGNMENT.
+Neither party shall assign this Agreement without the other party's prior written consent, except that either party may assign this Agreement to an affiliate or to a successor in connection with a merger, acquisition, or sale of substantially all of its assets.
