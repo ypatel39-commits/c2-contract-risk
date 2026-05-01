@@ -8,6 +8,25 @@ seminal case-law citations per clause.
 **Stack:** 100% local — Ollama (`qwen2.5:7b`, `format=json`) + `pypdf` +
 Streamlit. No cloud API. No API keys.
 
+## Demo
+
+![Risk distribution: 5 clauses identified, 1 HIGH (indemnification), 3 MEDIUM, 1 LOW](docs/screenshot.png)
+
+```text
+$ python scripts/run_demo.py
+Risk report - saas_master_agreement.txt
+  1. Auto-Renewal / Evergreen          MEDIUM
+  2. Indemnification / Hold-Harmless   HIGH      <- uncapped, customer-side
+  3. Limitation of Liability           MEDIUM
+  4. Governing Law / Forum             LOW
+  5. Change of Control / Assignment    MEDIUM
+5 clauses, each with 2-3 seminal case-law citations.
+```
+
+Full output: [`docs/cli-demo.txt`](docs/cli-demo.txt) | Full sample report: [`docs/sample-report.md`](docs/sample-report.md)
+
+---
+
 ## Quickstart
 
 ```bash

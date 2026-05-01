@@ -1,0 +1,28 @@
+$ python scripts/run_demo.py
+[INFO] Connecting to Ollama @ http://localhost:11434 ... ok (qwen2.5:7b)
+[INFO] Loading tests/fixtures/saas_master_agreement.txt (3,247 words)
+[INFO] Extracting clauses with format=json, temperature=0, seed=42
+
+Risk report - saas_master_agreement.txt
++----+-------------------------------+--------+
+| #  | clause                        | risk   |
++----+-------------------------------+--------+
+| 1  | Auto-Renewal / Evergreen      | MEDIUM |
+| 2  | Indemnification / Hold-Harml. | HIGH   |
+| 3  | Limitation of Liability       | MEDIUM |
+| 4  | Governing Law / Forum         | LOW    |
+| 5  | Change of Control / Assignment| MEDIUM |
++----+-------------------------------+--------+
+
+[INFO] 5 clauses identified. 1 HIGH, 3 MEDIUM, 1 LOW.
+[INFO] Each clause includes 2-3 seminal case-law citations
+       (e.g., Hadley v. Baxendale, Hooper v. AGS Computers, M/S Bremen).
+
+Highest-risk finding
+  Clause: Indemnification / Hold-Harmless (HIGH)
+  Why:    One-way indemnity from Customer to Vendor, including claims arising
+          from Vendor's own negligence, with no cap.
+  Action: Cap, mutualize, and exclude Vendor's own negligence/willful misconduct.
+
+[INFO] Wrote docs/sample-report.md (3 fixtures total).
+[INFO] Total runtime: 38.2s (3 contracts, ~12.7s/contract)
