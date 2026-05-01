@@ -25,4 +25,10 @@ Highest-risk finding
   Action: Cap, mutualize, and exclude Vendor's own negligence/willful misconduct.
 
 [INFO] Wrote docs/sample-report.md (3 fixtures total).
-[INFO] Total runtime: 38.2s (3 contracts, ~12.7s/contract)
+
+# Risk levels above (Auto-Renewal MEDIUM, Indemnification HIGH, Liability
+# MEDIUM, Jurisdiction LOW, Change-of-Control MEDIUM) match the real
+# docs/sample-report.md verbatim. Surrounding [INFO] lines and timing are
+# illustrative; the demo requires Ollama qwen2.5:7b which was not invoked
+# during this polish pass. Re-run `python scripts/run_demo.py` with Ollama
+# running to capture a fresh transcript.
